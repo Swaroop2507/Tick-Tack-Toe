@@ -4,6 +4,10 @@ This project is a Tic-Tac-Toe game implemented using React. The application allo
 
 ##Preview:
 
+<img src="/public/t3-home.png" alt="home-page" />
+<img src="/public/t3-win.png" alt="Won" />
+<img src="/public/t3-lose.png" alt="draw" />
+
 
 ## Features
 
